@@ -15,3 +15,8 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 03 - Notebook 03.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_03_Notebook_03.ipynb)
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 03 - Notebook 04.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_03_Notebook_04.ipynb)
+
+### `AULA 05 - Normalização de Textos`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 05 - Notebook 05.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_05_Notebook_05.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 05 - Notebook 06.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_05_Notebook_06.ipynb)
