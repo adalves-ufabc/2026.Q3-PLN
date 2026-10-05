@@ -1,0 +1,26 @@
+[project]
+name = "ufabc-2026-q3-pln"
+version = "0.1.0"
+description = "Ambiente das aulas de Processamento de Linguagem Natural da UFABC"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "autocorrect>=2.6.1",
+    "beautifulsoup4>=4.12.3",
+    "ipykernel>=6.29.5",
+    "langdetect>=1.0.9",
+    "matplotlib>=3.9.2",
+    "nltk>=3.9.1",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pyspellchecker>=0.8.1",
+    "pypdf2>=3.0.1",
+    "requests>=2.32.3",
+    "spacy>=3.8.2,<3.9",
+    "textblob>=0.18.0.post0",
+    "transformers>=4.45.2",
+    "wordcloud>=1.9.4",
+]
+
+[tool.uv]
+package = false
