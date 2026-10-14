@@ -1,0 +1,23 @@
+# Dependencias diretas, nas versoes resolvidas em uv.lock.
+# Para reproducibilidade completa, use: uv sync
+
+# Extracao e manipulacao de dados
+beautifulsoup4==4.15.0
+openpyxl==3.1.5
+pandas==3.0.6
+pypdf2==3.0.1
+requests==2.34.2
+
+# PLN e processamento de texto
+autocorrect==2.6.1
+langdetect==1.0.9
+nltk==3.10.3
+pyspellchecker==0.9.0
+spacy==3.8.16
+textblob==0.20.1
+transformers==5.17.0
+
+# Visualizacao e kernel dos notebooks
+matplotlib==3.11.2
+wordcloud==1.9.6
+ipykernel==7.3.0
