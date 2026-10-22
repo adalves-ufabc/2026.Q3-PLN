@@ -26,3 +26,22 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 06 - Notebook 07.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_06_Notebook_07.ipynb)
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 06 - Notebook 08.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_06_Notebook_08.ipynb)
 
+### `AULA 07 - Representação de Textos`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 07 - Notebook 09.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_07_Notebook_09.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 07 - Notebook 10.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_07_Notebook_10.ipynb)
+
+### `AULA 09 - Introdução à API da OpenAI`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 09 - Notebook 11.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_09_Notebook_11.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 09 - Notebook 12.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_09_Notebook_12.ipynb)
+
+### `AULA 10 - Introdução à API da OpenAI`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 10 - Notebook 13.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_10_Notebook_13.ipynb)
+
+### `AULA 11 - Introdução à API da Google`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 11 - Notebook 14.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_11_Notebook_14.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 11 - Notebook 15.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_11_Notebook_15.ipynb)
+
