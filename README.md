@@ -45,3 +45,12 @@ UFABC [CMCC]
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 11 - Notebook 14.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_11_Notebook_14.ipynb)
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 11 - Notebook 15.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_11_Notebook_15.ipynb)
 
+### `AULA 11 - Introdução à API da Cohere`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 11 - Notebook 15.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_11_Notebook_15.ipynb)
+
+
+### `AULA 11 - Introdução à API da Groq`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 11 - Notebook 16.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_11_Notebook_16.ipynb)
+
