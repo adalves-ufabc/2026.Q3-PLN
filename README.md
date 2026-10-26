@@ -54,3 +54,27 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 11 - Notebook 17.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_11_Notebook_17.ipynb)
 
+### `AULA 12 - APIs de Textos`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 12 - Notebook 18.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_12_Notebook_18.ipynb)
+
+### `AULA 12 - LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 12 - Notebook 19.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_12_Notebook_19.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 12 - Notebook 20.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_12_Notebook_20.ipynb)
+
+### `AULA 12 - Integração da API da Google com o LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 12 - Notebook 21.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_12_Notebook_21.ipynb)
+
+### `AULA 12 - Integração da API da Cohere com o LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 12 - Notebook 22.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_12_Notebook_22.ipynb)
+
+### `AULA 12 - Integração da API da Groq com o LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 12 - Notebook 23.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_12_Notebook_23.ipynb)
+
+
+
