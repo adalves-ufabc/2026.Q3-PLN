@@ -76,5 +76,13 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 12 - Notebook 23.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_12_Notebook_23.ipynb)
 
+### `AULA 13 - Engenharia de Prompts e LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 13 - Notebook 24.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_13_Notebook_24.ipynb)
+
+### `AULA 13 - Dados Estruturados e LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 13 - Notebook 25.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_13_Notebook_25.ipynb)
+
 
 
