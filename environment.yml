@@ -1,0 +1,24 @@
+name: ufabc-2026-q3-pln
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - ipykernel
+  - autocorrect
+  - beautifulsoup4
+  - google-genai
+  - langdetect
+  - matplotlib
+  - nltk
+  - openai
+  - openpyxl
+  - pandas
+  - pydantic
+  - pyspellchecker
+  - pypdf2
+  - requests
+  - scikit-learn
+  - spacy<3.9
+  - textblob
+  - transformers
+  - wordcloud
