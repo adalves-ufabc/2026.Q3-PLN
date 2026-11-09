@@ -84,5 +84,18 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 13 - Notebook 25.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_13_Notebook_25.ipynb)
 
+### `AULA 14 - Extração de Informação [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 14 - Notebook 26.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_14_Notebook_26.ipynb)
+
+### `AULA 14 - Reconhecimento de Entidades Nomeadas [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 14 - Notebook 27.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_14_Notebook_27.ipynb)
+
+### `AULA 14 - Sumarização de Textos [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 14 - Notebook 28.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_14_Notebook_28.ipynb)
+
+
 
 
