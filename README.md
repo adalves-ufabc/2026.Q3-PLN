@@ -100,9 +100,15 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 15 - Notebook 29.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_15_Notebook_29.ipynb)
 
-### `AULA 15 - Similaridade de Textos [LangChain]`
+### `AULA 15 - Word Embeddings`
 
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 15 - Notebook 30.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_15_Notebook_30.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 15 - Notebook 31.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_15_Notebook_31.ipynb)
+
+### `AULA 15 - Similaridade de Textos [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 15 - Notebook 32.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_15_Notebook_32.ipynb)
 
 
 
