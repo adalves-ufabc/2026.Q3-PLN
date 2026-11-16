@@ -110,6 +110,16 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 15 - Notebook 32.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_15_Notebook_32.ipynb)
 
+### `AULA 16 - Ferramentas (Tools) [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 16 - Notebook 33.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_16_Notebook_33.ipynb)
+
+### `AULA 16 - Agentes [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 16 - Notebook 34.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_16_Notebook_34.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 16 - Notebook 35.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_16_Notebook_35.ipynb)
+
 
 
 
