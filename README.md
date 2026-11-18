@@ -120,6 +120,18 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 16 - Notebook 35.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_16_Notebook_35.ipynb)
 
+### `AULA 17 - Busca Semântica [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 17 - Notebook 36.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_17_Notebook_36.ipynb)
+
+### `AULA 17 - Geração de Dados Sintéticos [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 17 - Notebook 37.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_17_Notebook_37.ipynb)
+
+### `AULA 17 - Sistema de Perguntas e Respostas [LangChain]`
+
+##### &nbsp;&nbsp;&nbsp; [2026-Q3 PLN AULA 17 - Notebook 38.ipynb](https://github.com/adalves-ufabc/2026.Q3-PLN/blob/main/aulas/2026_Q3_PLN_AULA_17_Notebook_38.ipynb)
+
 
 
 
